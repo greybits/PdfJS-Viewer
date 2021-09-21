@@ -3744,7 +3744,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "kubernetes-for-full-stack-developers.pdf",
+    value: "https://s2.q4cdn.com/498544986/files/doc_downloads/test.pdf",
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
